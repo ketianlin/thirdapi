@@ -1,0 +1,20 @@
+{
+    "name": "ke666/thirdapi",
+    "description": "thirdapi",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ke666\\Thirdapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "暗里着迷",
+            "email": "642028114@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "7.7.x-dev"
+    }
+}
